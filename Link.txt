@@ -5,3 +5,5 @@ https://canvasjs.com/php-charts/dynamic-live-line-chart/
 https://www.chartjs.org/docs/latest/developers/updates.html
 
 https://www.zingchart.com/docs/tutorials/loading-data/mysql
+
+https://canvasjs.com/docs/charts/how-to/creating-dynamic-charts/
